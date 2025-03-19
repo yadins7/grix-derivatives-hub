@@ -43,3 +43,12 @@
   - Latest updates and announcements
   - Join our growing community
 - 💬 [**Discord**](https://t.co/YPGAhKlcUV)
+
+## 🤖 Eliza Integration
+
+-   🔌 [**Grix Plugin for Eliza**](https://github.com/grixprotocol/plugin-grix)
+    -   Access to Grix's comprehensive options data
+    -   Real-time market insights and signals
+    -   AI-powered trading recommendations
+    -   Easy setup and configuration
+    -   Supports both BTC and ETH options

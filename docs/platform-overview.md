@@ -61,19 +61,11 @@
 #### Ethereum
 
 - Contract: [`0xa150376112dd24E873086b51347EddD5F2e147D5`](https://etherscan.io/token/0xa150376112dd24E873086b51347EddD5F2e147D5)
-- Premium Features:
-  - Cross-chain bridging
-  - Enhanced security
-  - Network stability
 
 #### Arbitrum
 
 - Contract: [`0x812F2D5Ff6088ed7A655567dBcDf0d42cf07ca38`](https://arbiscan.io/token/0x812F2D5Ff6088ed7A655567dBcDf0d42cf07ca38)
 - Trade on: [Camelot Exchange](https://app.camelot.exchange/?token2=0x812F2D5Ff6088ed7A655567dBcDf0d42cf07ca38&swap=v2)
-- Premium Features:
-  - Low transaction fees
-  - Fast settlements
-  - High liquidity pools
 
 #### Solana
 
@@ -81,10 +73,6 @@
 - Trade on:
   - [Raydium](https://raydium.io/swap/?outputMint=E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa&inputMint=sol)
   - [Jupiter](https://jup.ag/swap/SOL-E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa)
-- Premium Features:
-  - Ultra-fast execution
-  - Minimal fees
-  - Advanced trading options
 
 ## 🤖 Eliza Integration
 

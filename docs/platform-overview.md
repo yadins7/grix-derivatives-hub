@@ -1,11 +1,5 @@
 # Grix Platform Overview
 
-## 🌐 Official Websites
-
-- 🌐 [**Grix Landing Page**](https://grix.finance) - Official website with protocol overview
-- 📱 [**Grix Web App**](https://app.grix.finance) - Interactive trading platform
-- 📚 [**Documentation Hub**](https://docs.grix.finance/gitbook) - Comprehensive technical documentation
-
 ## 🚀 Core Features
 
 ### Trading Interface
@@ -23,38 +17,27 @@
   - AI agent chatbot that can recommend options
   - Can view current market status and prices
 
-## 👨‍💻 Developer Resources
+## 🤖 LLM Integrations
 
-### Technical Documentation
+### API Access for AI Agents
 
-- 📖 [**API Introduction**](https://app.grix.finance/api)
-  - Comprehensive integration guide
-  - Simple registration process
-- 📚 [**API Documentation**](https://grix.apidocumentation.com)
-  - Detailed technical specifications
-  - Complete endpoint references
+- 🔌 [**Grix Plugin for Eliza**](https://github.com/grixprotocol/plugin-grix)
+  - Seamless integration with Eliza framework
+- 🔌 [**Grix Plugin for MCP**](https://github.com/grixprotocol/plugin-mcp)
+  - Seamless integration with MCP framework
 
-### GitHub Repositories
+### Features
 
-- 🔄 [**Derivatives Adapters**](https://github.com/grixprotocol/derivatives-adapters)
-  - Open source hub for DeFi options protocols
-  - Seamless read/write actions
-- 📦 [**SDK**](https://github.com/grixprotocol/sdk)
-  - Software Development Kit for Grix services
-- 🔌 [**Plugin Grix**](https://github.com/grixprotocol/plugin-grix)
-  - Real-time DeFi options data via API
-- 🛠️ [**Calypso Framework**](https://github.com/grixprotocol/calypso-framework)
-  - Framework for protocol integration
-
-### Integration Status
-
-- ✅ [**Active Integrations**](https://app.grix.finance/status)
-  - Real-time protocol status
-  - System health monitoring
+- Real-time market data access
+- Trading recommendations
+- Portfolio analysis
+- Risk management insights
+- Cross-platform compatibility
+- Market insights and signals
+- AI-powered trading recommendations
+- Portfolio optimization suggestions
 
 ## 💎 Token Information
-
-### GRIX Token
 
 ### Network Support
 
@@ -74,14 +57,39 @@
   - [Raydium](https://raydium.io/swap/?outputMint=E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa&inputMint=sol)
   - [Jupiter](https://jup.ag/swap/SOL-E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa)
 
-## 🤖 Eliza Integration
+## 👨‍💻 Developer Resources
 
-- 🔌 [**Grix Plugin for Eliza**](https://github.com/grixprotocol/plugin-grix)
-  - Access to Grix's comprehensive options data
-  - Real-time market insights and signals
-  - AI-powered trading recommendations
-  - Easy setup and configuration
-  - Supports both BTC and ETH options
+### Technical Documentation
+
+- 📖 [**API Introduction**](https://app.grix.finance/api)
+  - Comprehensive integration guide
+  - Simple registration process
+- 📚 [**API Documentation**](https://grix.apidocumentation.com)
+  - Detailed technical specifications
+  - Complete endpoint references
+
+### GitHub Repositories
+
+- 🔄 [**Derivatives Adapters**](https://github.com/grixprotocol/derivatives-adapters)
+  - Open source hub for DeFi options protocols
+- 📦 [**SDK**](https://github.com/grixprotocol/sdk)
+  - Software Development Kit for Grix services
+- 🔌 [**Plugin Grix**](https://github.com/grixprotocol/plugin-grix)
+  - Real-time DeFi options data via API
+- 🛠️ [**Calypso Framework**](https://github.com/grixprotocol/calypso-framework)
+  - Framework for protocol integration
+
+### Integration Status
+
+- ✅ [**Active Integrations**](https://app.grix.finance/status)
+  - Real-time protocol status
+  - System health monitoring
+
+## 🌐 Official Websites
+
+- 🌐 [**Grix Landing Page**](https://grix.finance) - Official website with protocol overview
+- 📱 [**Grix Web App**](https://app.grix.finance) - Interactive trading platform
+- 📚 [**Documentation Hub**](https://docs.grix.finance/gitbook) - Comprehensive technical documentation
 
 ## 🤝 Community & Support
 

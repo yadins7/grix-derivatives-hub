@@ -89,7 +89,6 @@
 
 - 🌐 [**Grix Landing Page**](https://grix.finance) - Official website with protocol overview
 - 📱 [**Grix Web App**](https://app.grix.finance) - Interactive trading platform
-- 📚 [**Documentation Hub**](https://docs.grix.finance/gitbook) - Comprehensive technical documentation
 
 ## 🤝 Community & Support
 

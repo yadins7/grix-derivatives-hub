@@ -7,7 +7,9 @@ CalypsoHub represents the future of DeFi automation - where DeFi meets AI (DeFAI
 At its core, CalypsoHub empowers you to be the architect of your own AI agents. Whether you need automated trading execution or real-time market insights, you can design agents that perfectly align with your strategy:
 
 ### 📈 Trading Agents
+
 Create AI-powered trading companions that:
+
 - Execute your custom trading strategies 24/7
 - Monitor market conditions in real-time
 - Manage risk parameters automatically
@@ -15,7 +17,9 @@ Create AI-powered trading companions that:
 - Adapt to changing market conditions
 
 ### 💬 Social Agents
+
 Design AI communicators that:
+
 - Deliver personalized market analysis
 - Send real-time trading signals
 - Post market updates across platforms
@@ -23,6 +27,7 @@ Design AI communicators that:
 - Support multiple channels (Discord, Telegram)
 
 ### ⚙️ Customization Features
+
 - Personality templates (Professional Analyst, Community Mentor, Technical Trader)
 - Custom instruction sets
 - Scheduled content delivery
@@ -31,7 +36,9 @@ Design AI communicators that:
 - Multi-platform integration
 
 ## 🎯 Why DeFAI?
+
 DeFAI combines the precision of artificial intelligence with the opportunities in DeFi. Your agents can:
+
 - Monitor markets 24/7
 - Execute trades with precision
 - Provide real-time analysis

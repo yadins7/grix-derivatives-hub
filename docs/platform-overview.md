@@ -23,6 +23,8 @@
 
 - 🔌 [**Grix Plugin for Eliza**](https://github.com/grixprotocol/plugin-grix)
   - Seamless integration with Eliza framework
+  - [Detailed setup guide](eliza/setup.md) with step-by-step instructions
+  - Includes example character configuration and features
 - 🔌 [**Grix Plugin for MCP**](https://github.com/grixprotocol/plugin-mcp)
   - Seamless integration with MCP framework
 

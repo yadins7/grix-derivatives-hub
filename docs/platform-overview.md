@@ -27,7 +27,7 @@
 
 ### Technical Documentation
 
-- 📖 [**API Introduction**](https://github.com/grixprotocol/defi-options-hub/blob/main/api/README.md)
+- 📖 [**API Introduction**](https://app.grix.finance/api)
   - Comprehensive integration guide
   - Simple registration process
 - 📚 [**API Documentation**](https://grix.apidocumentation.com)
